@@ -52,10 +52,10 @@ interests:
   - Galaxy Clustering
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Cosmology
+    institution: Durham University
     icon: ""
-    date_start: 2015-09-01
+    date_start: 2013-10-01
     date_end: 2019-06-30
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
@@ -167,4 +167,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am an astrophysicist working at the intersection of cosmology, galaxy formation, and gravitational lensing. My research combines large simulations, semi-analytic modelling, and survey data to understand the dark sector and the growth of structure across cosmic time. I develop end-to-end mock pipelines for Stage-IV missions such as NASA’s Roman Space Telescope, lead work on strong-lensing and kinematic-lensing methods for probing dark matter, and contribute to large-scale structure analyses for the Roman Galaxy Redshift Survey. I place a strong emphasis on realism and validation in modelling — ensuring that theoretical predictions, simulations, and lensing analyses can be fairly compared with data. My work is highly collaborative, spanning cosmologists, observers, simulation experts, and software developers across multiple institutions.
